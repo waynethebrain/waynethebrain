@@ -16,7 +16,6 @@ Space, the final frontier. These are the voyages of the Starship Enterprise. Its
 
 Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
 
-- [Dotfiles](https://github.com/waynethebrain/dotfiles) - My personal configuration files on macOS
 - [Homelab](https://github.com/waynethebrain/homelab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
 
 ## Support me and make a difference
