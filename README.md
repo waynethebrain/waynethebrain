@@ -15,7 +15,7 @@ Space, the final frontier. These are the voyages of the Starship Enterprise. Its
 
 Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
 
-- [Homelab](https://github.com/TheDigiCasa/Home-Lab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more. _TheDigiCasa is my repository for all things from my smart home configuration files to home lab templates and more_
+- [Homelab](https://github.com/TheDigiCasa/Home-Lab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more. _TheDigi.Casa is my repository for all things from my smart home configuration files to home lab templates and more_
 
 ## Support me and make a difference
 
