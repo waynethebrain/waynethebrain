@@ -11,12 +11,11 @@ Just say anything, George, say what ever's natural, the first thing that comes t
 Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before. Many say exploration is part of our destiny, but it’s actually our duty to future generations and their quest to ensure the survival of the human species.
 
 
-
 ## Write-Ups and Tutorials
 
 Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
 
-- [Homelab](https://github.com/waynethebrain/homelab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
+- [Homelab](https://github.com/TheDigiCasa/Home-Lab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more. _TheDigiCasa is my repository for all things from my smart home configuration files to home lab templates and more_
 
 ## Support me and make a difference
 
